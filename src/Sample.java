@@ -1,4 +1,4 @@
 
 public class Sample {
- public int c=0;
+ public int c=10;
 }
