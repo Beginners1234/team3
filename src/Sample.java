@@ -6,4 +6,5 @@ public class Sample {
  public int e = 1113213;
  public int f = 12;
  public double x = 12d;
+ public float fl = 39f;
 }
