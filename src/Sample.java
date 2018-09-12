@@ -8,4 +8,5 @@ public class Sample {
  public double x = 12d;
  public float fl = 399f;
  public int pranav = 01;
+ public int pranav1 = 01;
 }
