@@ -7,4 +7,5 @@ public class Sample {
  public int f = 12;
  public double x = 12d;
  public float fl = 399f;
+ public int pranav = 01;
 }
