@@ -9,4 +9,5 @@ public class Sample {
  public float fl = 399f;
  public int pranav = 01;
  public int pranav1 = 01;
+ public int pranav2 = 02;
 }
